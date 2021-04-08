@@ -1,12 +1,12 @@
-title:              花音的日常部落格
+title:              Kanon's Daily Life Blog
 email:              kanon-blog@outlook.com
-description:        內容主要圍繞動漫以及網上潮流
+description:        ACG / original creation / Others
 author:             花音
-baseurl:            "/kanon-blog"
-url:                "https://kanonblog.github.io/"
+baseurl:            ""
+url:                ""
 
 # Social Profiles
-twitter_username:   
+twitter_username:   kanonblog776
 github_username: 
 facebook_username:  
 instagram_username:  
