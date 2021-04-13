@@ -34,6 +34,17 @@ layout: default
 
         {{ content }}
 
+        <br><br>
+        <p>
+        Tags:
+        {% for tags in page.tags %}
+          <a href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
+          {%if forloop.index < page.tags.size %}
+          ,
+          {%endif%}
+        {% endfor %}
+        </p>
+
         <hr>
 
         <div class="clearfix">
