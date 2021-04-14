@@ -48,7 +48,15 @@ layout: default
             {{ site.author }}
             {% endif %}
             on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}  
+            <!--&middot; 
+            Tags:
+            {% for tags in post.tags %}
+              <a href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
+              {%if forloop.index < page.tags.size %}
+              ,
+              {%endif%}
+            {% endfor %}   --->    
           </p>
         </article>
 
