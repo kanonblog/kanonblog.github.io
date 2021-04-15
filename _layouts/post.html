@@ -27,6 +27,12 @@ layout: default
       </div>
     </div>
   </header>
+  
+  <!--Added FB button-->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="PGkuOm7e"></script>
+
+
 
   <div class="container">
     <div class="row">
@@ -35,15 +41,29 @@ layout: default
         {{ content }}
 
         <br><br>
-        <p>
-        Tags:
-        {% for tags in page.tags %}
-          <a href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
-          {%if forloop.index < page.tags.size %}
-          ,
-          {%endif%}
-        {% endfor %}
-        </p>
+        <table>
+          <tr><td>
+          Tags:
+          {% for tags in page.tags %}
+            <a href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
+            {%if forloop.index < page.tags.size %}
+            ,
+            {%endif%}
+          {% endfor %}
+          </td style="float: right; vertical-align: bottom;">
+          <!--<td style="position: absolute; right: 25px;">-->
+          <td style="position: absolute; right: 25px; ">
+            <div style="display: inline-block; position: relative; top: 6px;"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+            <div style="display: inline-block; position: relative; top: -2px;" class="fb-share-button" data-href="https://kanon-blog.page{{page.url}}" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://kanon-blog.page{{page.url}}" class="fb-xfbml-parse-ignore">Share</a></div>
+            <!--
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://kanon-blog.page{{page.url}}" target="_blank">
+              Share in Facebook
+            </a>
+            -->
+          </td>
+        </tr>
+        </table>
+        
 
         <hr>
 
@@ -57,7 +77,6 @@ layout: default
           <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
               Post</span> &rarr;</a>
           {% endif %}
-
         </div>
 
       </div>
