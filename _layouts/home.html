@@ -30,7 +30,7 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 3 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -49,14 +49,14 @@ layout: default
             {% endif %}
             on
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}  
-            <!--&middot; 
+            &middot; 
             Tags:
             {% for tags in post.tags %}
-              <a href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
-              {%if forloop.index < page.tags.size %}
+              <a style="color: #868e96;" href="{{"/tag" | relative_url }}#{{ tags }}">{{ tags }}</a>
+              {%if forloop.index < post.tags.size %}
               ,
               {%endif%}
-            {% endfor %}   --->    
+            {% endfor %}    
           </p>
         </article>
 
