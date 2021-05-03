@@ -15,7 +15,6 @@ This post would describe my personal rating and provide tips for this game. The 
     <li><a href="#set-A">Overall rating</a></li>
     <li><a href="#set-B">Suggestions/Tips</a></li>
     <li><a href="#set-C">Last Words</a></li>
-    <li><a href="#set-D">Related Article [Route Reflection]</a></li>
     </ul>
     </p>
 </div>
@@ -88,21 +87,3 @@ This post would describe my personal rating and provide tips for this game. The 
 <p>I may place the game review of different routes in separate post(s). Have a nice gameplay and hope I can see you again~</p>
 <p>By the way, I found the skill list <a href="https://megamitensei.fandom.com/wiki/List_of_Devil_Survivor_2_Skills">here</a>, the racial skill <a href="https://megamitensei.fandom.com/wiki/Racial_Skill">here</a> and modified a bit of the description of story from <a href="https://megamitensei.fandom.com/wiki/Devil_Survivor_2">here</a>.</p>
 <br><br>
-
-<p><div class="left-margin" id="set-D">Related Article [Route Reflection]</div></p>
-<p>
-    {% for post in site.posts%}
-    {% if post.title contains "Devil Survivor 2" and post.title != page.title%}
-    <hr>
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-        <h3 class="post-title">{{ post.title }}</h3>
-        {% if post.subtitle %}
-        <p>{{ post.subtitle }}</p>
-        {% else %}
-        <p class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-        {% endif %}
-      </a>
-      <hr>
-    {%endif%}
-    {% endfor %}
-</p>

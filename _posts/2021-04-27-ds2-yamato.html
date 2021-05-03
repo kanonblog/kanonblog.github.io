@@ -22,7 +22,6 @@ This article dicusses the story and main characters in Yamato's route. The conte
     <li><a href="#set-A">Overall reflection</a></li>
     <li><a href="#set-B">Main characters in this route</a></li>
     <li><a href="#set-C">Last Words</a></li>
-    <li><a href="#set-D">Related Article</a></li>
     </ul>
     </p>
 </div>
@@ -56,7 +55,7 @@ This article dicusses the story and main characters in Yamato's route. The conte
 <br><br>
 
 <p><div class="left-margin" id="set-B">Main characters in this route</div></p>
-<p>Yamato - lines: I am not aiming for the world like this (I am not sure whether the sentence is for Triangulum Arc instead)</p>
+<p>Yamato - lines: I am not aiming for the world like this (This statement comes from Triangulum Arc instead)</p>
 <p><img width="100%" height="auto" src="{{ post.image | prepend: site.baseurl }}/img/ds2-20210427/Yamato.png" alt="Yamato" ></p>
 <p>I said most of the review towards him in the story section.</p>
 <p>I do think <u>he is a good superior in an organization</u>. He can prioritize the importance of the things, instead of just judging a situation with his own feeling. He fire one of the staff after reaching the end, instead of doing it during the fight against Septentrione. This may prevent the loss of motivation among the staff. </p>
@@ -100,23 +99,5 @@ This article dicusses the story and main characters in Yamato's route. The conte
 <p>I completed this route first because Yamato is really a good superior. He is indeed a capable person, but he has his own shortcomings as well.</p> 
 <p>I hope I will finish some routes in some days and report the game reflection in this blog~~</p>
 <br><br>
-
-<p><div class="left-margin" id="set-D">Related Article</div></p>
-<p>
-    {% for post in site.posts%}
-    {% if post.title contains "Devil Survivor 2" and post.title != page.title%}
-    <hr>
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-        <h3 class="post-title">{{ post.title }}</h3>
-        {% if post.subtitle %}
-        <p>{{ post.subtitle }}</p>
-        {% else %}
-        <p class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-        {% endif %}
-      </a>
-      <hr>
-    {%endif%}
-    {% endfor %}
-</p>
 
 
