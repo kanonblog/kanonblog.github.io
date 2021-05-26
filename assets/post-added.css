@@ -19,3 +19,6 @@ img {
     margin-right: auto;
     display: block
     }
+.left{
+    float:left;
+}

@@ -1,0 +1,396 @@
+---
+layout: post
+title: "Daily life of 2-3 class - (Ch.1) Kanon in cooking lesson"
+date: 2021-05-11 20:00:00 +0800
+background: '/img/posts/sakura-2.jpg'
+tags: 
+- original-creation
+- 2-3-class
+---
+A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
+
+<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>Content</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">Preview</a></li>
+    <li><a href="#set-B">Content</a></li>
+    <li><a href="#set-C">Last words</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>Preview</h2></div></p>
+
+Please visit the link below for the story background.
+
+<p>
+            {% for post in site.posts %}
+                {%if post.title == "Background information of my creation (Title: Daily life of 2-3 class)"%}
+                <hr>
+                <div>
+                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
+                  {% if post.subtitle %}
+                  <p style="font-size:15px">{{ post.subtitle }}</p>
+                  {% else %}
+                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                  {% endif %}
+                </a>
+                </div>
+                <hr>
+                {%endif%}
+            {% endfor %}    
+</p>
+<br><br>
+
+<p><div class="left-margin" id="set-B"><h2>Content</h2></div></p>
+
+Outline -
+
+Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is to finish the tomato pasta during the class.
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: Hmmm… We need to decide the workloads.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Let me pick the necessary ingredients and slices them into suitable size.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Great. Please help to get the ingredients according to the recipe ~~
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Got you. (Leave and go picking ingredients from the bar)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: I am counting on you, Kanon~
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Haha… Thank you.
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (Slicing the ingredients and evaluate the required quantity to 0.1 g unit.)
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: Here is the oil~~ (pick the ingredients when Kanon may need)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: (heating the pan and pour oil), (pick the pieces of onions from Nagiko), (pour the tomatoes into the pan) , (adding favours)….
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: It smells good now!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: The cooking is soon to be done~~
+      </td>
+    </tr>
+            <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: Wow~~ Lunch time is approaching and I am hungry now….
+      </td>
+    </tr>
+            <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+         Kanon: (Pour the cooked pasta into the pan) Me too...
+      </td>
+    </tr>
+             <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (approach) It smells good. The favour should be good enough.
+      </td>
+    </tr>
+                <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: Agree. Kanon is really good at cooking~~ She always did good jobs in the cooking lessons.
+      </td>
+    </tr>
+                <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+         Kanon: Haha, thank you, Nagiko. I think I would not mess up the things this time... By the way,the meal is done~~ 
+      </td>
+    </tr>
+                    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+      </td>
+      <td>
+         Let me have a try first….. Emmm??
+      </td>
+    </tr>
+                    <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Nagiko: What happen!?
+      </td>
+    </tr>
+                    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+      </td>
+      <td>
+         Kanon: It is too salty….
+      </td>
+    </tr>
+                 <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Ryouka: What happen!? The recipe should lead your meal to perfect favour… 
+      </td>
+    </tr>
+                       <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: (Take a bite from the food in the pan) Errrr…
+      </td>
+    </tr>
+                 <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
+      </td>
+      <td>
+        Ryouka: (Take a bite from the food in the pan) Errrr…
+      </td>
+    </tr>
+                        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: I do not bring my lunch today… Do I need to have this meal for my lunch…?????
+      </td>
+    </tr>
+                        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+         Kanon: (Put an amount of sugar and mix it)<br>(Add cheeses on top)
+      </td>
+    </tr>
+                            <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+          Kanon: (Grab a bite of pasta) It should be fine now~~
+      </td>
+    </tr>
+                      <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: (Have a bite) OH, it tastes so good now~~~~
+      </td>
+    </tr>
+                     <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (Keep quiet and try)
+      </td>
+    </tr>
+                            <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Nagiko: What have you done to dramatically change the favour!?
+      </td>
+    </tr>
+                                <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+          Kanon: I just added too much salt in the meal... The salty taste can be covered by the sweet, so the meal can be tasted better. 
+      </td>
+    </tr>
+                 <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
+      </td>
+      <td>
+        Ryouka: I am hungry now. Will we go having lunch now?
+      </td>
+    </tr>
+                                    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+          Kanon: Okay, maybe we go clearing up now?
+      </td>
+    </tr>
+                          <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: Agree~~~
+      </td>
+    </tr>
+                     <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (Nod and start clearing up)
+      </td>
+    </tr>
+                                    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+          Kanon: (Put the food into three of the lunch boxes)
+      </td>
+    </tr>
+                              <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: (Follow to clear up things)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+          Kanon: Everything should be fine now. Let’s go~~~ 
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Kanon, Nagiko and Ryouka go to the garden for their lunch time. They finish their lunch with satisfied atmosphere under a tree. 
+
+<br><br>
+
+<p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
+One of the 3 people may find no work in the cooking team while they are working on the cooking tasks, because here is no need for the third person to slice ingredients or cook a simple meal. I think Nagoko goes into an idle position here....
