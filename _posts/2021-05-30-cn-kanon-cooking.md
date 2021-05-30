@@ -64,7 +64,7 @@ tags:
     <tr>
       <td width="100px">
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 嗯...我們要決定一下分工。
@@ -73,7 +73,7 @@ tags:
     <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓: 我會負責去拿要用的原料，以及切碎他們。
@@ -82,7 +82,7 @@ tags:
     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
         花音: 好的，那請按照食譜拿要用的原料～～
@@ -91,7 +91,7 @@ tags:
      <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓: 明白。（去拿食材）
@@ -100,7 +100,7 @@ tags:
     <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 煮食部份就靠你了，花音～
@@ -109,7 +109,7 @@ tags:
     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
         花音: 哈哈。
@@ -118,7 +118,7 @@ tags:
          <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓: （切碎原料，及以0.1g為基準量度食材。）
@@ -127,7 +127,7 @@ tags:
         <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子：這是你要的食油～（拿花音需要的食材）
@@ -136,7 +136,7 @@ tags:
     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
         花音: （烘熱平底鍋，倒食油）, （在凪子手上拿切好的蒜頭），（放蕃茄到平底鍋），（加上味道）...
@@ -145,7 +145,7 @@ tags:
         <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 聞起來挺香的！
@@ -154,7 +154,7 @@ tags:
         <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
         花音: 快要煮好了～
@@ -163,7 +163,7 @@ tags:
             <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 哇～～快要到午飯時間，現在我肚很餓...
@@ -172,7 +172,7 @@ tags:
             <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
          花音: （倒已經煮好的意粉到平底鍋裏面）我也是...
@@ -181,7 +181,7 @@ tags:
              <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓: （走過來）這聞起來很香。味道應該會很好。
@@ -190,7 +190,7 @@ tags:
                 <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 我同意，花音有很好的廚藝～～她常常於家政課煮出美味的食物。
@@ -199,7 +199,7 @@ tags:
                 <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
          花音: 哈哈，謝謝凪子。 這次料理應該做得不錯。已經煮好了～～
@@ -208,7 +208,7 @@ tags:
                     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
          花音: 讓我先嘗一下味道...嗯？
@@ -217,7 +217,7 @@ tags:
                     <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue-surprised.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
         凪子: 怎樣了！？
@@ -226,7 +226,7 @@ tags:
                     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
          花音: 這有點太鹹...
@@ -235,7 +235,7 @@ tags:
                  <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue-surprised.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-surprised.png"/>
       </td>
       <td>
         稜楓: 什麼事發生了！？ 跟著食譜應該不會出現什麼意外吧...
@@ -244,7 +244,7 @@ tags:
                        <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
         凪子: （取一匙食物）啊…
@@ -253,7 +253,7 @@ tags:
                  <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
       </td>
       <td>
         稜楓: （取一匙食物）啊…
@@ -262,7 +262,7 @@ tags:
                         <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
         凪子: 我今天沒有帶午餐... 難道我的午餐要吃這個嗎？
@@ -271,7 +271,7 @@ tags:
                         <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
          花音: （放入一些砂糖），（灑上芝士）
@@ -280,7 +280,7 @@ tags:
                             <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
           花音: （嘗一口意粉）現在味道應該變好了～～
@@ -289,7 +289,7 @@ tags:
                       <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         凪子: （嘗試吃一口） 噢，現在味道變得很好～～～
@@ -298,7 +298,7 @@ tags:
                      <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓:（靜靜地吃）
@@ -307,7 +307,7 @@ tags:
                             <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue-surprised.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
         凪子: 為什麼味道會大幅改善？
@@ -316,7 +316,7 @@ tags:
                                 <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
           花音:我之前在食物上加了太多鹽....那些鹹味可以被糖味覆蓋，所以味道就感覺變好了。 
@@ -325,7 +325,7 @@ tags:
                  <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue-sad.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
       </td>
       <td>
         稜楓: 我餓了...我們要不要現在就去吃午飯？
@@ -334,7 +334,7 @@ tags:
                                     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
           花音: 好，不如我們先收拾好？
@@ -343,7 +343,7 @@ tags:
                           <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: 同意～～～
@@ -352,7 +352,7 @@ tags:
                      <tr>
       <td>
         <!--稜楓-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Ryouka-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
         稜楓: （點頭及開始收拾）
@@ -361,7 +361,7 @@ tags:
                                     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
           花音: （把食物放進三個午餐盒）
@@ -370,7 +370,7 @@ tags:
                               <tr>
       <td>
         <!--凪子-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Nagiko-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
         凪子: （一起進行收拾）
@@ -379,7 +379,7 @@ tags:
     <tr>
       <td>
         <!--花音-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/Kanon-dialogue.png"/>
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
           花音: 現在收拾好了。我們走吧～～～
