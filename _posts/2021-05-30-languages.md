@@ -1,0 +1,433 @@
+---
+layout: post
+title: "Daily life of 2-3 class - (Ch.3) Ryouka's study in a new language and its use"
+date: 2021-05-30 20:00:00 +0800
+background: '/img/library.jpg'
+tags: 
+- original-creation
+- 2-3-class
+---
+Kanon notices Ryouka's learning in a new language.
+
+<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>Content</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">Content</a></li>
+    <li><a href="#set-B">Tranditional Chinese Version</a></li>
+    <li><a href="#set-C">Last words</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>Content</h2></div></p>
+
+<table>
+    <tr>
+      <td width="100px">
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: … (reading a book)
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: What are you doing?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: I am learning Japanese.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Wa… It seems difficult. Japanese should have a different grammatical structure than English, right?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: You are correct.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Kanon: Why do you try so hard to master different linguistic skills? I mean, English is useful enough for different countries already.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: A lot of compositions are translated into English.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Yes, indeed.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: But I think it is not enough to realize the meaning fully.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Why do you think so?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Different linguistic systems express a thing with different tones. It drives the cultural development of each nation.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Do you mean you are going to learn the culture of a nation?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: I like reading a thing with its origin. Translation means a loss. 
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Isn’t it okay whatever you know the meaning?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Generally yes. When I get to obsess a composition so hard, it turns to no.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Kanon: Seem you discover something attractive to you, right?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (Nod) More than that, I discover a benefit recently.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Kanon: What it is?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: The searching engine pops different result on the top.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+      </td>
+      <td>
+        Kanon: Hmmm… Sorry, does it have any important meaning here?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: It has. I observe my tendency to judge a thing with the top results. For example, if I see a lot of positive feedbacks in top pages, I may judge the results reasonable to be "positive". It won’t hurt for some questions with immediate outputs, such as programming, but it hurts for judgements with grey area.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-angry.png"/>
+      </td>
+      <td>
+        Kanon: The results in the search engine may impact our judgement, right?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Yes. 
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+      </td>
+      <td>
+        Kanon: Hmmm.. I didn’t think much when I use the search engine.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: We get our analytical skills grown with inputs of information. The search results do affect our judgement.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: It seems we need to inspect the searching results in multiple dimensions, for important decisions, huh?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Indeed. That is what I try to say.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Will the search engine pop different results according to the use of languages? 
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Yes. The result may vary by the cultural background of the language users. Different languages used in the search will give results about different considerations to a problem. It provides insights to think a question deeper.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Oh… It seems useful to find points in debate.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Yes. That is a secret for me to win debate.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sweat.png"/>
+      </td>
+      <td>
+        Kanon : (I think it is just you are knowledgeable enough…) Oh… Yeah.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: (Being proud)
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        Nagiko: (Approaching) what you guys doing? Trying out something cool?
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Ryouka is learning a new language~
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        Nagiko: Wow, that is cool !!!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: …
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        Nagiko: Why are you quiet?!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: You may not be interested in this topic.
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        Nagiko: Why~~ Please tell me~~
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon : (Tell her anyway)
+      </td>
+    </tr>
+</table>
+<br><br>
+
+<p><div class="left-margin" id="set-B"><h2>Traditional Chinese Version</h2></div></p>
+
+Please find the Chinese version below.
+
+<p>
+            {% for post in site.posts %}
+                {%if post.title == "二年三班的日常 - (Ch.3) 稜楓學習新語言，及其用處"%}
+                <hr>
+                <div>
+                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
+                  {% if post.subtitle %}
+                  <p style="font-size:15px">{{ post.subtitle }}</p>
+                  {% else %}
+                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                  {% endif %}
+                </a>
+                </div>
+                <hr>
+                {%endif%}
+            {% endfor %}    
+</p>
+
+<br><br>
+
+<p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
+
+Nagiko does not like so much of the serious talks, but she will listen when friends tell her.

@@ -1,0 +1,187 @@
+I"!<p>凪子（Nagiko）在她的編程作業上遇到困難。</p>
+
+<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>Content</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">內容</a></li>
+    <li><a href="#set-B">總結</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>內容</h2></div></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100px">
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
+      </td>
+      <td>
+        凪子: 這到底是什麼！？
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
+      </td>
+      <td>
+        花音: 這是 python 的編程作業～～
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
+      </td>
+      <td>
+        凪子: 我完全不知道這是什麼... 每隻字我都看了，就是搞不懂它的意思。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
+      </td>
+      <td>
+        稜楓: 作業的難度只是入門級別。
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-angry.png" />
+      </td>
+      <td>
+        凪子: 從一開始，我已經不知道在發生什麼事情～～～
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
+      </td>
+      <td>
+        稜楓: 編程是關於解決問題。你需要先明白課題的要求，然後開始編寫。
+      </td>
+    </tr>
+       <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sweat.png" />
+      </td>
+      <td>
+        凪子: 問題想要最後能夠顯示金字塔，對吧？我的頭快要爆炸了～～！
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
+      </td>
+      <td>
+        稜楓: 你可以運用課堂上學習到的邏輯，來解決這問題。
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
+      </td>
+      <td>
+        凪子: 我嘗試了，可是結果就是不對～～
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
+      </td>
+      <td>
+        花音：解決編程問題需要耐性～～如果你可以決定好執行次序，就能更加接近答案～
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
+      </td>
+      <td>
+        稜楓: 我同意花音的意見。編程是有趣的，如果你願意逐步尋求答案。
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
+      </td>
+      <td>
+        凪子: 啊～～～～～我想逃離作業...！
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
+      </td>
+      <td>
+        花音: 我有一個建議，能夠快速解決這個問題～～～
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-angry.png" />
+      </td>
+      <td>
+        凪子: 請你告訴我！！！
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
+      </td>
+      <td>
+        花音: 你可以於網上搜尋關鍵字，以及把代碼複製到你的程序檔案。你可以更變一些邏輯條件，例如把for-loop改為while-loop。不要忘記改變變數（variables）名稱。然後結果看起來會不錯。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
+      </td>
+      <td>
+        稜楓: 這個方法可以訓練編程邏輯思維，所以我們學校沒有禁止。
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="/img/2-3class-20210510/nagiko-dialogue-angry.png" />
+      </td>
+      <td>
+        凪子: 這樣還是需要思考～～～啊～～～什麼時候才能夠逃離作業？
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p><br /><br /></p>
+
+<p><div class="left-margin" id="set-B"><h2>Last words</h2></div></p>
+
+<p>編程問題總是令人覺得沮喪，可是它會變得有趣，如果編程問題能夠如預期般解決！</p>
+
+:ET

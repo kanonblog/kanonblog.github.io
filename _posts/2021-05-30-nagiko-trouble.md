@@ -1,0 +1,217 @@
+---
+layout: post
+title: "Daily life of 2-3 class - (Ch.2) Nagiko's trouble in academic"
+date: 2021-05-30 19:58:00 +0800
+background: '/img/posts/nb.jpg'
+tags: 
+- original-creation
+- 2-3-class
+---
+Nagiko is in trouble in her programming assignment.
+
+<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>Content</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">Content</a></li>
+    <li><a href="#set-B">Tranditional Chinese Version</a></li>
+    <li><a href="#set-C">Last words</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>Content</h2></div></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="100px">
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: What is going on !?
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: This is an assignment of python language~~
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: I totally have no idea of what is going on… I read each word without realizing the true meaning…
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: The assignment is only a beginner level.
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        Nagiko: I do not even know what is happening at the beginning~~~
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: Programming is about to solve the problem. You need to know the requirements first, and then you can start working.
+      </td>
+    </tr>
+       <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sweat.png"/>
+      </td>
+      <td>
+        Nagiko: The question is about to print the pyramid pattern, right? My brain is going to get exploded~~!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: You can use the learnt logic at class and solve the problem.
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: I tried, but the result is not correct~~
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Programming questions require your patience~~ If you plan well on the execution order of the codes, it will have higher chance to get a correct answer~
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: I agree with Kanon. Programming is interesting when you are self-motivated to seek for an answer step by step.
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        Nagiko: Ahhhhhhh~~~~~ I really want to escape from the assignment…!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: There is a good way to solve the question very fast~~~
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        Nagiko: Please tell me !!!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        Kanon: Just search the keyword of the question online, and copy the codes into your coding file. You may change some logical conditions like writing while-loop instead of for-loop. Do not forget to change the names of the variables. Then everything will look fine.
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        Ryouka: This way can train the programming logics, so that our school is not going to ban it.
+      </td>
+    </tr>
+         <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        Nagiko: It still require effort to think~~~ Ahhhh~~~ When can I escape from the assignment?
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
+
+<p><div class="left-margin" id="set-B"><h2>Traditional Chinese Version</h2></div></p>
+
+Please refer to the link below.
+
+<p>
+            {% for post in site.posts %}
+                {%if post.title == "二年三班的日常 - (Ch.2) 凪子在學業上的煩惱"%}
+                <hr>
+                <div>
+                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
+                  {% if post.subtitle %}
+                  <p style="font-size:15px">{{ post.subtitle }}</p>
+                  {% else %}
+                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                  {% endif %}
+                </a>
+                </div>
+                <hr>
+                {%endif%}
+            {% endfor %}    
+</p>
+<br><br>
+<p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
+
+Programming questions are always frustrating, but it turns interesting if the questions can be solved as expected !

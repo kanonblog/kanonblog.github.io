@@ -1,13 +1,4 @@
----
-layout: post
-title: "Daily life of 2-3 class - (Ch.1) Kanon in cooking lesson"
-date: 2021-05-11 20:00:00 +0800
-background: '/img/posts/sakura-2.jpg'
-tags: 
-- original-creation
-- 2-3-class
----
-A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
+I"1<p>A conversation during cooking lesson between Kanon, Nagiko and Ryouka.</p>
 
 <style>
     img{
@@ -32,40 +23,92 @@ A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
 
 <p><div class="left-margin" id="set-A"><h2>Preview</h2></div></p>
 
-Please visit the link below for the story background.
+<p>Please visit the link below for the story background.</p>
 
 <p>
-            {% for post in site.posts %}
-                {%if post.title == "Background information of my creation (Title: Daily life of 2-3 class)"%}
-                <hr>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <hr />
                 <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
+                <a href="/2021/05/10/background-info-intro.html"><h4>Background information of my creation (Title: Daily life of 2-3 class)</h4>
+                  
+                  <p style="font-size:15px">Briefly introduce the story and character settings.
+</p>
+                  
                 </a>
                 </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
+                <hr />
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                
 </p>
-<br><br>
+<p><br /><br /></p>
 
 <p><div class="left-margin" id="set-B"><h2>Content</h2></div></p>
 
-Outline -
+<p>Outline -</p>
 
-Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is to finish the tomato pasta during the class.
-
+<p>Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is to finish the tomato pasta during the class.</p>
 
 <table>
   <tbody>
     <tr>
       <td width="100px">
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: Hmmm… We need to decide the workloads.
@@ -74,7 +117,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: Let me pick the necessary ingredients and slices them into suitable size.
@@ -83,7 +126,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
         Kanon: Great. Please help to get the ingredients according to the recipe ~~
@@ -92,7 +135,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
      <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: Got you. (Leave and go picking ingredients from the bar)
@@ -101,7 +144,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: I am counting on you, Kanon~
@@ -110,7 +153,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
         Kanon: Haha… Thank you.
@@ -119,7 +162,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
          <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: (Slicing the ingredients and evaluate the required quantity to 0.1 g unit.)
@@ -128,7 +171,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: Here is the oil~~ (pick the ingredients when Kanon may need)
@@ -137,7 +180,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
         Kanon: (heating the pan and pour oil), (pick the pieces of onions from Nagiko), (pour the tomatoes into the pan) , (adding favours)….
@@ -146,7 +189,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: It smells good now!
@@ -155,7 +198,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
         Kanon: The cooking is soon to be done~~
@@ -164,7 +207,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
             <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: Wow~~ Lunch time is approaching and I am hungry now….
@@ -173,7 +216,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
             <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
          Kanon: (Pour the cooked pasta into the pan) Me too...
@@ -182,7 +225,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
              <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: (approach) It smells good. The favour should be good enough.
@@ -191,7 +234,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                 <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: Agree. Kanon is really good at cooking~~ She always did good jobs in the cooking lessons.
@@ -200,7 +243,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                 <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
          Kanon: Haha, thank you, Nagiko. I think I would not mess up the things this time... By the way,the meal is done~~ 
@@ -209,7 +252,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue-sad.png" />
       </td>
       <td>
          Let me have a try first….. Emmm??
@@ -218,7 +261,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                     <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue-surprised.png" />
       </td>
       <td>
         Nagiko: What happen!?
@@ -227,7 +270,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue-sad.png" />
       </td>
       <td>
          Kanon: It is too salty….
@@ -236,7 +279,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                  <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-surprised.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue-surprised.png" />
       </td>
       <td>
         Ryouka: What happen!? The recipe should lead your meal to perfect favour… 
@@ -245,7 +288,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                        <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
       </td>
       <td>
         Nagiko: (Take a bite from the food in the pan) Errrr…
@@ -254,7 +297,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                  <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue-sad.png" />
       </td>
       <td>
         Ryouka: (Take a bite from the food in the pan) Errrr…
@@ -263,7 +306,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                         <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue-sad.png" />
       </td>
       <td>
         Nagiko: I do not bring my lunch today… Do I need to have this meal for my lunch…?????
@@ -272,16 +315,16 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                         <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
-         Kanon: (Put an amount of sugar and mix it)<br>(Add cheeses on top)
+         Kanon: (Put an amount of sugar and mix it)<br />(Add cheeses on top)
       </td>
     </tr>
                             <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
           Kanon: (Grab a bite of pasta) It should be fine now~~
@@ -290,7 +333,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                       <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: (Have a bite) OH, it tastes so good now~~~~
@@ -299,7 +342,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                      <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: (Keep quiet and try)
@@ -308,7 +351,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                             <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue-surprised.png" />
       </td>
       <td>
         Nagiko: What have you done to dramatically change the favour!?
@@ -317,7 +360,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                                 <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
           Kanon: I just added too much salt in the meal... The salty taste can be covered by the sweet, so the meal can be tasted better. 
@@ -326,7 +369,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                  <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue-sad.png" />
       </td>
       <td>
         Ryouka: I am hungry now. Will we go having lunch now?
@@ -335,7 +378,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                                     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
           Kanon: Okay, maybe we go clearing up now?
@@ -344,7 +387,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                           <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: Agree~~~
@@ -353,7 +396,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                      <tr>
       <td>
         <!--Ryouka-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+        <img src="/img/2-3class-20210510/ryouka-dialogue.png" />
       </td>
       <td>
         Ryouka: (Nod and start clearing up)
@@ -362,7 +405,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                                     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
           Kanon: (Put the food into three of the lunch boxes)
@@ -371,7 +414,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
                               <tr>
       <td>
         <!--Nagiko-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+        <img src="/img/2-3class-20210510/nagiko-dialogue.png" />
       </td>
       <td>
         Nagiko: (Follow to clear up things)
@@ -380,7 +423,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
     <tr>
       <td>
         <!--Kanon-->
-        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+        <img src="/img/2-3class-20210510/kanon-dialogue.png" />
       </td>
       <td>
           Kanon: Everything should be fine now. Let’s go~~~ 
@@ -389,33 +432,87 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
   </tbody>
 </table>
 
-Kanon, Nagiko and Ryouka go to the garden for their lunch time. They finish their lunch with satisfied atmosphere under a tree. 
+<p>Kanon, Nagiko and Ryouka go to the garden for their lunch time. They finish their lunch with satisfied atmosphere under a tree.</p>
 
-<br><br>
+<p><br /><br /></p>
 
 <p><div class="left-margin" id="set-C"><h2>Traditional Chinese Version</h2></div></p>
 
-If you want to learn Traditional Chinese or whatever, you may check the link here.
+<p>If you want to learn Traditional Chinese or whatever, you may check the link here.</p>
 
 <p>
-            {% for post in site.posts %}
-                {%if post.title == "二年三班的日常 - (Ch.1) 花音與家政課"%}
-                <hr>
+            
+                
+            
+                
+            
+                
+                <hr />
                 <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
+                <a href="/2021/05/30/cn-kanon-cooking.html"><h4>二年三班的日常 - (Ch.1) 花音與家政課</h4>
+                  
+                  <p style="font-size:15px">這是花音（Kanon）,凪子（Nagiko）和稜楓（Ryouka）於家政課的對話。
+</p>
+                  
                 </a>
                 </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
+                <hr />
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                
 </p>
 
-<br><br>
+<p><br /><br /></p>
 <p><div class="left-margin" id="set-D"><h2>Last words</h2></div></p>
 
-One of the 3 people may find no work in the cooking team while they are working on the cooking tasks. For a simple meal, here is no need for the third member to slice ingredients or cook. I think Nagoko goes into an idle position here....
+<p>One of the 3 people may find no work in the cooking team while they are working on the cooking tasks. For a simple meal, here is no need for the third member to slice ingredients or cook. I think Nagoko goes into an idle position here….</p>
+:ET
