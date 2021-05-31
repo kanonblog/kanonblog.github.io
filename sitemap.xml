@@ -34,7 +34,7 @@ sitemap:
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" %}
 
-    {%if page.url != "/robots.txt" and page.url != "/feed.xml" and page.url!="/assets/main.css" and page.url!="/assets/main.css.map" and page.url != "/google7dc5fb83479836b5.html"%}
+    {%if page.url != "/robots.txt" and page.url != "/feed.xml" and page.url!="/assets/main.css" and page.url!="/assets/main.css.map" and page.url != "/google7dc5fb83479836b5.html" and page.url!="/assets/css/style.css"%}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
