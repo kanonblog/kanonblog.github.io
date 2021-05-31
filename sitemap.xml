@@ -7,6 +7,7 @@ sitemap:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for post in site.posts %}
     {% unless post.published == false %}
+    
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -27,10 +28,13 @@ sitemap:
         <priority>0.5</priority>
       {% endif %}
     </url>
+
     {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" %}
+
+    {%if page.url != "/robots.txt" and page.url != "/feed.xml" and page.url!="/assets/main.css" and page.url!="/assets/main.css.map" and page.url != "/google7dc5fb83479836b5.html"%}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
@@ -51,6 +55,8 @@ sitemap:
         <priority>0.3</priority>
       {% endif %}
     </url>
+    {% endif %}
+
     {% endunless %}
   {% endfor %}
 </urlset>
