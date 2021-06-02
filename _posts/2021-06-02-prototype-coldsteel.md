@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trails of cold steel: Prototype vs Current Version"
+title: "Trails of cold steel: Prototype vs Current Version (Spoiler)"
 date: 2021-06-02 18:32:00 +0800
 background: '/img/posts/trail.jpg'
 tags: 
@@ -16,7 +16,7 @@ I will make some assumptions in this article. Please treat the contents inoffici
     <li><a href="#set-A">Prototype of Cold Steel</a></li>
     <li><a href="#set-B">Possible Character Settings</a></li>
     <li><a href="#set-C">Possible Story flow</a></li>
-    <li><a href="#set-D">Conclusion</a></li>
+    <li><a href="#set-D">Last Words</a></li>
     </ul>
     </p>
 </div>
@@ -91,7 +91,7 @@ I guess the contents of coldsteel 3-4 are almost new from the original plot, but
 
 
 <br><br>
-<p><div class="left-margin" id="set-D"><h2>Conclusion</h2></div></p>
+<p><div class="left-margin" id="set-D"><h2>Last Words</h2></div></p>
 
 I spent time to think the plot of the original cold steel, and I found quite interesting. I just want to share my thoughts here.
 

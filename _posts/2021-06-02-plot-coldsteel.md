@@ -16,15 +16,16 @@ The observation is totally based on my own opinion. The story may not be describ
     <li><a href="#set-A">Before the Main Article</a></li>
     <li><a href="#set-B">Strange Points in Main Story</a></li>
     <li><a href="#set-C">Characters</a></li>
-    <li><a href="#set-D">Conclusion</a></li>
+    <li><a href="#set-D">Last Words</a></li>
     </ul>
     </p>
 </div>
 
 <p><div class="left-margin" id="set-A"><h2>Before the Main Article</h2></div></p>
-I had a fun time with cold steel series. The character interaction is so far good, except the bond events. However, I find the main story strange after reaching the end of the cold steel series, including gameplay experience in Hajimari-no-kiseki. I do not watch through all bond events of each character, so the article mentions the observation to main story only.
-<br><br>
 
+I had a fun time with cold steel series. The character interaction is so far good, except the bond events. However, I find the main story strange after reaching the end of the cold steel series, including gameplay experience in Hajimari-no-kiseki. I do not watch through all bond events of each character, so the article mentions the observation to main story only.
+
+<br><br>
 <p><div class="left-margin" id="set-B"><h2>Strange Points in Main Story</h2></div></p>
 
 - **Olivert in "Trails in the sky 3rd" vs "Trails of Cold Steel"**
@@ -99,7 +100,7 @@ I had a fun time with cold steel series. The character interaction is so far goo
 
 
 <br><br>
-<p><div class="left-margin" id="set-D"><h2>Last words</h2></div></p>
+<p><div class="left-margin" id="set-D"><h2>Last Words</h2></div></p>
 
 I noticed these points after I saw the unused version of trails of cold steel. 
 
