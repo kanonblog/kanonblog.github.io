@@ -69,7 +69,7 @@ Please take a look of the previous article, and you will have better clues of th
 
 **Jusis** - His family is one of the Four Great Houses. He is properly an opponent, or a temperary opponent in the prototype version. The reasons are not strong enough, but the following is my obvervation. 
 
-When battles end, he always mention lines like "commitment of a nobel's duties". Also, He has a stronger order than Rean called "Noble Command". Those look like the clues of being an enemy, and join after some events. He may be one of the opponents against Rean's plot. He may get involved to the conflicts between nobels and commoners.
+When battles end, he always mention lines like "commitment to nobel obligation". Also, He has a stronger order than Rean called "Noble Command". Those look like the clues of being an enemy, and join after some events. He may be one of the opponents against Rean's plot. He may get involved to the conflicts between nobels and commoners.
 
 **Vita** - she works with Crow in the current version, but she may be the witch of the Hexen Clan to Rean in prototype version. She may get into a sub-heroine position in this version!
 
