@@ -1,0 +1,354 @@
+---
+layout: post
+title: "二年三班的日常 - (Ch.6) 暑假的危機 (2/2)"
+date: 2021-06-04 21:45:00 +0800
+background: '/img/posts/tea.jpg'
+tags: 
+- chinese
+- 2-3-class
+---
+在稜楓家複習考試內容。
+
+<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>目錄</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">內容</a></li>
+    <li><a href="#set-B">總結</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>內容</h2></div></p>
+<table>
+<table>
+    <tr>
+      <td width="100px">
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 這是我房間。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        凪子: 你是不是沒有提很多東西！？ 你家門口很大，而且這裏有很多員工…
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 這不太重要。你想要讓你學業成績變好，對嗎？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        凪子: 你對…
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-angry.png"/>
+      </td>
+      <td>
+        稜楓: 所以你想要額外指導，對吧？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        凪子: 對…
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sweat.png"/>
+      </td>
+      <td>
+        花音: （看來稜楓想回避關於她家的話題）
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 我會教你學習。請你像平時一樣解題吧。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        凪子: 我從哪裏開始？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 哪一科是你最不擅長的？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
+      </td>
+      <td>
+        凪子: 數學。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 好，那就嘗試先做數學題目吧。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        凪子: （埋首做稜楓給她的問題集）
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        凪子: （30 分鐘後）唔… 我仍然對剩下的題目沒有頭緒～～
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        花音: 看來你已經做完你懂的題目。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 凪子的答題策略是完美的，她沒有在不懂的題目上花太長時間。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        花音: 看來這個問題集對她而言有點難…
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        凪子: 教師花音和稜楓..! 為了我的假期，請告訴我怎樣改善!!
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        花音: 凪子不太喜歡數學。這是想法的因素。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
+      </td>
+      <td>
+        凪子: 唔… 我不太想面對數學問題。透過記憶數學的解法，我還是能夠及格的。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 這是問題所在。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        凪子: 嗯？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 你不太想解數學題，可是你是透過學習多種數學模式解題。所以你需要注重於解題的數量和質素。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 另外，準確預測題目能夠帶來幫助。這是為什麼我給你問題集。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        凪子: 你太酷了…! 學懂解這裏的題目後，我是不是可以及格？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 很大機會是。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
+      </td>
+      <td>
+        凪子: 哇..! 我的成績可以達到要求，如果我今次的數學成績表現達標。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        花音: 順帶一提，稜楓怎麼拿到問題集的？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 這些是大學入學試的問題。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        花音: 什麼？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 我選取了頭等大學問題集裏，中等難度的問題。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
+      </td>
+      <td>
+        花音: 你已經在複習大學入學試嗎？
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Ryouka-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
+      </td>
+      <td>
+        稜楓: 我總是有較高目標。這樣能為現在的學習進度帶來正面效果。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Kanon-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
+      </td>
+      <td>
+        花音: 噢，怪不得你在校內試成績這麼好。
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <!--Nagiko-->
+        <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
+      </td>
+      <td>
+        凪子: 我不會為此而震驚。我要爭取屬於自己的假期…!
+      </td>
+    </tr>
+</table>
+
+<br><br>
+<p><div class="left-margin" id="set-B"><h2>總結</h2></div></p>
+
+在學業排名上，稜楓名列榜首，花音居於頭十名內，凪子處於平均排名。
