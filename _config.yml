@@ -1,6 +1,6 @@
-title:              Kanon's ACG Blog
+title:              Kanon's Daily Life Blog
 email:              kanon-blog@outlook.com
-description:        Game Review / Original Creation / Others
+description:        Game Reviews / Story Creation / Daily-Life related Topics
 author:             Kanon
 baseurl:            ""
 url:                "https://kanon-blog.page"
@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:    UA-192821471-2  # out your google-analytics code ## 
+google_analytics:      # out your google-analytics code ## UA-192821471-2
 
 # Build settings
 markdown:           kramdown

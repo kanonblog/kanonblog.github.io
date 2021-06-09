@@ -4,7 +4,7 @@ title: "Reason to attend an university"
 date: 2021-05-27 15:22:00 +0800
 background: '/img/posts/academy.jpg'
 tags: 
-- others
+- daily-life
 ---
 People may get confused of the meaning of studies, especially in university level. In the current educational system, I don't think the reasons of studies are brought up very well, in my living territory. This article can be a reference, if you face the same struggle.
 
