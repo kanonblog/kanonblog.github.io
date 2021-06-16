@@ -4,8 +4,8 @@ title: "Template"
 date: draft 21:28:00 +0800
 background: ''
 tags: 
-- pokemon
-- game-review
+- tag-1
+- tag-2
 ---
 
 
@@ -21,18 +21,18 @@ tags:
     </p>
 </div>
 
-<p><div class="left-margin" id="set-A">Overall review</div></p>
+<p><div class="left-margin" id="set-A"><h2>Overall review</h2></div></p>
+
 
 <br><br>
+<p><div class="left-margin" id="set-B"><h2>3 starters</h2></div></p>
 
-<p><div class="left-margin" id="set-B">3 starters</div></p>
-
-<br><br>
-
-<p><div class="left-margin" id="set-C">Characters</div></p>
 
 <br><br>
+<p><div class="left-margin" id="set-C"><h2>Characters</h2></div></p>
 
-<p><div class="left-margin" id="set-D">Last words</div></p>
+
+<br><br>
+<p><div class="left-margin" id="set-D"><h2>Last words</h2></div></p>
 <p></p>
 
