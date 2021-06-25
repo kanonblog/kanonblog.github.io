@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Daily life of 2-3 class - (Ch.1) Kanon in cooking lesson"
+title: "Daily life of 2-3 class - Kanon in cooking lesson"
 date: 2021-05-11 20:00:00 +0800
 background: '/img/posts/sakura-2.jpg'
 tags: 
 - original-creation
 - 2-3-class
 ---
-A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
+A conversation during cooking lesson between Kanon, Nagiko and Ryouka. 
+
+這是花音（Kanon）,凪子（Nagiko）和稜楓（Ryouka）於家政課的對話。
 
 <style>
     img{
@@ -24,7 +26,6 @@ A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
     <ul>
     <li><a href="#set-A">Preview</a></li>
     <li><a href="#set-B">Content</a></li>
-    <li><a href="#set-C">Traditional Chinese Version</a></li>
     <li><a href="#set-D">Last words</a></li>
     </ul>
     </p>
@@ -33,6 +34,8 @@ A conversation during cooking lesson between Kanon, Nagiko and Ryouka.
 <p><div class="left-margin" id="set-A"><h2>Preview</h2></div></p>
 
 Please visit the link below for the story background.
+
+請到以下連結查看故事背景。
 
 <p>
             {% for post in site.posts %}
@@ -59,6 +62,9 @@ Outline -
 
 Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is to finish the tomato pasta during the class.
 
+簡介 -
+
+花音（Kanon）,凪子（Nagiko）和稜楓（Ryouka）於家政課組隊，目標於課堂上完成蕃茄意粉。
 
 <table>
   <tbody>
@@ -68,7 +74,8 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Hmmm… We need to decide the workloads.
+        Nagiko: Hmmm… We need to decide the workloads.<br>
+        凪子: 嗯...我們要決定一下分工。
       </td>
     </tr>
     <tr>
@@ -77,7 +84,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Let me pick the necessary ingredients and slices them into suitable size.
+        Ryouka: Let me pick the necessary ingredients and slices them into suitable size.<br>稜楓: 我會負責去拿要用的原料，以及切碎他們。
       </td>
     </tr>
     <tr>
@@ -86,7 +93,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Great. Please help to get the ingredients according to the recipe ~~
+        Kanon: Great. Please help to get the ingredients according to the recipe ~~<br>花音: 好的，那請按照食譜拿要用的原料～～
       </td>
     </tr>
      <tr>
@@ -95,7 +102,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Got you. (Leave and go picking ingredients from the bar)
+        Ryouka: Got you. (Leave and go picking ingredients from the bar)<br>稜楓: 明白。（去拿食材）
       </td>
     </tr>
     <tr>
@@ -104,7 +111,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: I am counting on you, Kanon~
+        Nagiko: I am counting on you, Kanon~<br>煮食就靠你了，花音～
       </td>
     </tr>
     <tr>
@@ -113,7 +120,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Haha… Thank you.
+        Kanon: Haha… Thank you.<br>哈哈。
       </td>
     </tr>
          <tr>
@@ -122,7 +129,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (Slicing the ingredients and evaluate the required quantity to 0.1 g unit.)
+        Ryouka: (Slicing the ingredients and evaluate the required quantity to 0.1 g unit.)<br>稜楓: （切碎原料，及以0.1g為基準量度食材。）
       </td>
     </tr>
         <tr>
@@ -131,7 +138,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Here is the oil~~ (pick the ingredients when Kanon may need)
+        Nagiko: Here is the oil~~ (pick the ingredients when Kanon may need)<br>凪子：這是你要的食油～（拿花音需要的食材）
       </td>
     </tr>
     <tr>
@@ -140,7 +147,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: (heating the pan and pour oil), (pick the pieces of onions from Nagiko), (pour the tomatoes into the pan) , (adding favours)….
+        Kanon: (heating the pan and pour oil), (pick the pieces of onions from Nagiko), (pour the tomatoes into the pan) , (adding favours)….<br>花音: （烘熱平底鍋，倒食油）, （在凪子手上拿切好的蒜頭），（放蕃茄到平底鍋），（加上味道）...
       </td>
     </tr>
         <tr>
@@ -149,7 +156,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: It smells good now!
+        Nagiko: It smells good now!<br>凪子: 聞起來挺香的
       </td>
     </tr>
         <tr>
@@ -158,7 +165,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: The cooking is soon to be done~~
+        Kanon: The cooking is soon to be done~~<br>花音: 快要煮好了
       </td>
     </tr>
             <tr>
@@ -167,7 +174,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Wow~~ Lunch time is approaching and I am hungry now….
+        Nagiko: Wow~~ Lunch time is approaching and I am hungry now….<br>凪子: 哇～～快要到午飯時間，現在我肚很餓...
       </td>
     </tr>
             <tr>
@@ -176,7 +183,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-         Kanon: (Pour the cooked pasta into the pan) Me too...
+         Kanon: (Pour the cooked pasta into the pan) Me too...<br>花音: （倒已經煮好的意粉到平底鍋裏面）我也是...
       </td>
     </tr>
              <tr>
@@ -185,7 +192,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (approach) It smells good. The favour should be good enough.
+        Ryouka: (approach) It smells good. The favour should be good enough.<br>稜楓: （走過來）這聞起來很香。味道應該會很好。
       </td>
     </tr>
                 <tr>
@@ -194,7 +201,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Agree. Kanon is really good at cooking~~ She always did good jobs in the cooking lessons.
+        Nagiko: Agree. Kanon is really good at cooking~~ She always did good jobs in the cooking lessons.<br>凪子: 我同意，花音有很好的廚藝～～她常常於家政課煮出美味的食物。
       </td>
     </tr>
                 <tr>
@@ -203,7 +210,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-         Kanon: Haha, thank you, Nagiko. I think I would not mess up the things this time... By the way,the meal is done~~ 
+         Kanon: Haha, thank you, Nagiko. I think I would not mess up the things this time... By the way,the meal is done~~ <br>花音: 哈哈，謝謝凪子。 這次料理應該做得不錯。已經煮好了～～
       </td>
     </tr>
                     <tr>
@@ -212,7 +219,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
-         Let me have a try first….. Emmm??
+         Kanon: Let me have a try first….. Emmm??<br>花音: 讓我先嘗一下味道...嗯？
       </td>
     </tr>
                     <tr>
@@ -221,7 +228,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: What happen!?
+        Nagiko: What happen!?<br>凪子: 怎樣了！？
       </td>
     </tr>
                     <tr>
@@ -230,7 +237,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
-         Kanon: It is too salty….
+         Kanon: It is too salty….<br>花音: 這有點太鹹...
       </td>
     </tr>
                  <tr>
@@ -239,7 +246,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-surprised.png"/>
       </td>
       <td>
-        Ryouka: What happen!? The recipe should lead your meal to perfect favour… 
+        Ryouka: What happen!? The recipe should lead your meal to perfect favour… <br>稜楓: 什麼事發生了！？ 跟著食譜應該不會出現什麼意外吧...
       </td>
     </tr>
                        <tr>
@@ -248,7 +255,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: (Take a bite from the food in the pan) Errrr…
+        Nagiko: (Take a bite from the food in the pan) Errrr…<br>凪子: （取一匙食物）唔…
       </td>
     </tr>
                  <tr>
@@ -257,7 +264,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
       </td>
       <td>
-        Ryouka: (Take a bite from the food in the pan) Errrr…
+        Ryouka: (Take a bite from the food in the pan) Errrr…<br>稜楓: （取一匙食物）唔…
       </td>
     </tr>
                         <tr>
@@ -266,7 +273,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: I do not bring my lunch today… Do I need to have this meal for my lunch…?????
+        Nagiko: I do not bring my lunch today… Do I need to have this meal for my lunch…?????<br>凪子: 我今天沒有帶午餐... 難道我的午餐要吃這個嗎？
       </td>
     </tr>
                         <tr>
@@ -275,7 +282,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-         Kanon: (Put an amount of sugar and mix it)<br>(Add cheeses on top)
+         Kanon: (Put an amount of sugar and mix it)<br>(Add cheeses on top)<br>花音: （放入一些砂糖），（灑上芝士）
       </td>
     </tr>
                             <tr>
@@ -284,7 +291,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-          Kanon: (Grab a bite of pasta) It should be fine now~~
+          Kanon: (Grab a bite of pasta) It should be fine now~~<br>花音: （嘗一口意粉）現在味道應該變好了～～
       </td>
     </tr>
                       <tr>
@@ -293,7 +300,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: (Have a bite) OH, it tastes so good now~~~~
+        Nagiko: (Have a bite) OH, it tastes so good now~~~~<br>凪子: （嘗試吃一口） 噢，現在味道變得很好～～～
       </td>
     </tr>
                      <tr>
@@ -302,7 +309,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (Keep quiet and try)
+        Ryouka: (Keep quiet and try)<br>稜楓:（靜靜地吃）
       </td>
     </tr>
                             <tr>
@@ -311,7 +318,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: What have you done to dramatically change the favour!?
+        Nagiko: What have you done to dramatically change the favour!?<br>凪子: 為什麼味道會大幅改善？
       </td>
     </tr>
                                 <tr>
@@ -320,7 +327,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-          Kanon: I just added too much salt in the meal... The salty taste can be covered by the sweet, so the meal can be tasted better. 
+          Kanon: I just added too much salt in the meal... The salty taste can be covered by the sweet, so the meal can be tasted better. <br>花音:我之前在食物上加了太多鹽....那些鹹味可以被糖味覆蓋，所以味道就感覺變好了。 
       </td>
     </tr>
                  <tr>
@@ -329,7 +336,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-sad.png"/>
       </td>
       <td>
-        Ryouka: I am hungry now. Will we go having lunch now?
+        Ryouka: I am hungry now. Will we go having lunch now?<br>稜楓: 我餓了...我們要不要現在就去吃午飯？
       </td>
     </tr>
                                     <tr>
@@ -338,7 +345,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-          Kanon: Okay, maybe we go clearing up now?
+          Kanon: Okay, maybe we go clearing up now?<br>花音: 好，不如我們先收拾好？
       </td>
     </tr>
                           <tr>
@@ -347,7 +354,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Agree~~~
+        Nagiko: Agree~~~<br>凪子: 同意～～～
       </td>
     </tr>
                      <tr>
@@ -356,7 +363,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (Nod and start clearing up)
+        Ryouka: (Nod and start clearing up)<br>稜楓: （點頭及開始收拾）
       </td>
     </tr>
                                     <tr>
@@ -365,7 +372,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-          Kanon: (Put the food into three of the lunch boxes)
+          Kanon: (Put the food into three of the lunch boxes)<br>花音: （把食物放進三個午餐盒
       </td>
     </tr>
                               <tr>
@@ -374,7 +381,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: (Follow to clear up things)
+        Nagiko: (Follow to clear up things)<br>凪子: （一起進行收拾）
       </td>
     </tr>
     <tr>
@@ -383,7 +390,7 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-          Kanon: Everything should be fine now. Let’s go~~~ 
+          Kanon: Everything should be fine now. Let’s go~~~ <br>花音: 現在收拾好了。我們走吧～～～
       </td>
     </tr>
   </tbody>
@@ -391,31 +398,15 @@ Kanon, Nagiko and Ryouka are working in a group for cooking lesson. The theme is
 
 Kanon, Nagiko and Ryouka go to the garden for their lunch time. They finish their lunch with satisfied atmosphere under a tree. 
 
-<br><br>
-
-<p><div class="left-margin" id="set-C"><h2>Traditional Chinese Version</h2></div></p>
-
-If you want to learn Traditional Chinese or whatever, you may check the link here.
-
-<p>
-            {% for post in site.posts %}
-                {%if post.title == "二年三班的日常 - (Ch.1) 花音與家政課"%}
-                <hr>
-                <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
-                </a>
-                </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
-</p>
+花音（Kanon）,凪子（Nagiko）和稜楓（Ryouka）走到學園後園一起吃午餐。她們在樹下滿足地吃完了午餐。 
 
 <br><br>
 <p><div class="left-margin" id="set-D"><h2>Last words</h2></div></p>
 
 One of the 3 people may find no work in the cooking team while they are working on the cooking tasks. For a simple meal, here is no need for the third member to slice ingredients or cook. I think Nagoko goes into an idle position here....
+
+在家政課中，三人中或者有一人找不到事做，因為簡單的料理不需要這麼多人切食材或者煮食物。我想凪子就是被閒置的那一個。
+
+There is a large different in expression between English and Chinese. Therefore, I priotitze translating the tones instead of mapping the words. 
+
+在表達上，英文和中文存在著很大的分別。所以，我優先翻譯語景，而並非字配字方式。

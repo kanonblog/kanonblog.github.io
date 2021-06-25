@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily life of 2-3 class - (Ch.3) Ryouka's study in a new language and its use"
+title: "Daily life of 2-3 class - Ryouka's study in a new language and its use"
 date: 2021-05-30 20:00:00 +0800
 background: '/img/library.jpg'
 tags: 
@@ -8,6 +8,8 @@ tags:
 - 2-3-class
 ---
 Kanon notices Ryouka's learning in a new language.
+
+花音留意到稜楓正在學習新語言。
 
 <style>
     img{
@@ -23,7 +25,6 @@ Kanon notices Ryouka's learning in a new language.
     <p>
     <ul>
     <li><a href="#set-A">Content</a></li>
-    <li><a href="#set-B">Tranditional Chinese Version</a></li>
     <li><a href="#set-C">Last words</a></li>
     </ul>
     </p>
@@ -38,7 +39,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: … (reading a book)
+        Ryouka: … (reading a book) <br>稜楓: … （閱讀書籍）
       </td>
     </tr>
         <tr>
@@ -47,7 +48,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: What are you doing?
+        Kanon: What are you doing?<br>花音: 你在做什麼？
       </td>
     </tr>
         <tr>
@@ -56,7 +57,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: I am learning Japanese.
+        Ryouka: I am learning Japanese.<br>稜楓: 我正在學習日語。
       </td>
     </tr>
         <tr>
@@ -65,7 +66,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Wa… It seems difficult. Japanese should have a different grammatical structure than English, right?
+        Kanon: Wa… It seems difficult. Japanese should have a different grammatical structure than English, right?<br>花音: 哇… 這看起來挺困難。日文應該跟英文的語言結構不一樣，對吧？ 
       </td>
     </tr>
         <tr>
@@ -74,7 +75,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: You are correct.
+        Ryouka: You are correct.<br>稜楓: 你對。
       </td>
     </tr>
         <tr>
@@ -83,7 +84,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: Why do you try so hard to master different linguistic skills? I mean, English is useful enough for different countries already.
+        Kanon: Why do you try so hard to master different linguistic skills? I mean, English is useful enough for different countries already.<br>花音: 為什麼你這麼努力，嘗試精通不同的語言？我意思是，英文已經是大部份國家的通用語言。
       </td>
     </tr>
         <tr>
@@ -92,7 +93,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: A lot of compositions are translated into English.
+        Ryouka: A lot of compositions are translated into English.<br>稜楓: 有很多作品有英文譯本。
       </td>
     </tr>
         <tr>
@@ -101,7 +102,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Yes, indeed.
+        Kanon: Yes, indeed.<br>花音: 你對。
       </td>
     </tr>
     <tr>
@@ -110,7 +111,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: But I think it is not enough to realize the meaning fully.
+        Ryouka: But I think it is not enough to realize the meaning fully.<br>稜楓: 但我認為這樣不足以理解作品的表達。
       </td>
     </tr>
         <tr>
@@ -119,7 +120,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Why do you think so?
+        Kanon: Why do you think so?<br>花音: 為什麼你這樣想？
       </td>
     </tr>
         <tr>
@@ -128,7 +129,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Different linguistic systems express a thing with different tones. It drives the cultural development of each nation.
+        Ryouka: Different linguistic systems express a thing with different tones. It drives the cultural development of each nation.<br>稜楓: 不同的語言系統以不同的語景表達同一件事物。每個國家可以以此為文化發展基礎。
       </td>
     </tr>
         <tr>
@@ -137,7 +138,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Do you mean you are going to learn the culture of a nation?
+        Kanon: Do you mean you are going to learn the culture of a nation?<br>花音: 你是不是想表達，你想學習關於一個國家的文化？
       </td>
     </tr>
         <tr>
@@ -146,7 +147,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: I like reading a thing with its origin. Translation means a loss. 
+        Ryouka: I like reading a thing with its origin. Translation means a loss. <br>稜楓: 我喜歡閱讀原文。翻譯代表缺損。
       </td>
     </tr>
         <tr>
@@ -155,7 +156,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Isn’t it okay whatever you know the meaning?
+        Kanon: Isn’t it okay whatever you know the meaning?<br>花音: 這應該是可容許的，只要能看懂其意思？
       </td>
     </tr>
         <tr>
@@ -164,7 +165,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Generally yes. When I get to obsess a composition so hard, it turns to no.
+        Ryouka: Generally yes. When I get to obsess a composition so hard, it turns to no.<br>稜楓: 正常的話，是。當我為一個作品著迷時，答案就變成不是了。
       </td>
     </tr>
         <tr>
@@ -173,7 +174,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: Seem you discover something attractive to you, right?
+        Kanon: Seem you discover something attractive to you, right?<br>花音: 看來你發現了一些吸引你的事，對嗎？
       </td>
     </tr>
         <tr>
@@ -182,7 +183,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (Nod) More than that, I discover a benefit recently.
+        Ryouka: (Nod) More than that, I discover a benefit recently.<br>稜楓: （點頭）比起這件事，我發現了一個優點。
       </td>
     </tr>
         <tr>
@@ -191,7 +192,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: What it is?
+        Kanon: What it is?<br>花音: 這是什麼？
       </td>
     </tr>
         <tr>
@@ -200,7 +201,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: The searching engine pops different result on the top.
+        Ryouka: The searching engine pops different result on the top.<br>稜楓: 最初出現的搜尋結果會不同。
       </td>
     </tr>
         <tr>
@@ -209,7 +210,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
-        Kanon: Hmmm… Sorry, does it have any important meaning here?
+        Kanon: Hmmm… Sorry, does it have any important meaning here?<br>花音: 唔… 抱歉，這樣會有問題嗎？
       </td>
     </tr>
         <tr>
@@ -218,7 +219,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: It has. I observe my tendency to judge a thing with the top results. For example, if I see a lot of positive feedbacks in top pages, I may judge the results reasonable to be "positive". It won’t hurt for some questions with immediate outputs, such as programming, but it hurts for judgements with grey area.
+        Ryouka: It has. I observe my tendency to judge a thing with the top results. For example, if I see a lot of positive feedbacks in top pages, I may judge the results reasonable to be "positive". It won’t hurt for some questions with immediate outputs, such as programming, but it hurts for judgements with grey area.<br>稜楓: 有。我觀察到自己傾向相信於搜尋結果中單面的意見。例如，如果我看到很多正面的意見於數頁的搜尋結果，我或者會判斷事物的結果為正面。這不會影響即時出結果的判斷，例如編程，但會影響有灰色地帶的選擇。
       </td>
     </tr>
         <tr>
@@ -227,7 +228,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-angry.png"/>
       </td>
       <td>
-        Kanon: The results in the search engine may impact our judgement, right?
+        Kanon: The results in the search engine may impact our judgement, right?<br>花音: 搜尋結果或者會影響我們的判斷，是吧？
       </td>
     </tr>
         <tr>
@@ -236,7 +237,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Yes. 
+        Ryouka: Yes. <br>稜楓: 對。
       </td>
     </tr>
         <tr>
@@ -245,7 +246,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sad.png"/>
       </td>
       <td>
-        Kanon: Hmmm.. I didn’t think much when I use the search engine.
+        Kanon: Hmmm.. I didn’t think much when I use the search engine.<br>花音: 唔... 我平日使用搜尋引擎時，沒有考慮這麼多。
       </td>
     </tr>
         <tr>
@@ -254,7 +255,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: We get our analytical skills grown with inputs of information. The search results do affect our judgement.
+        Ryouka: We get our analytical skills grown with inputs of information. The search results do affect our judgement.<br>稜楓: 我們通過資訊培養判斷力。搜尋結果會影響到我們的判斷。
       </td>
     </tr>
         <tr>
@@ -263,7 +264,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: It seems we need to inspect the searching results in multiple dimensions, for important decisions, huh?
+        Kanon: It seems we need to inspect the searching results in multiple dimensions, for important decisions, huh?<br>花音: 看來在重要的判斷上，我們需要從多角度檢視搜尋結果？ 
       </td>
     </tr>
         <tr>
@@ -272,7 +273,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Indeed. That is what I try to say.
+        Ryouka: Indeed. That is what I try to say.<br>稜楓: 對。這是我想要說的。
       </td>
     </tr>
         <tr>
@@ -281,7 +282,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Will the search engine pop different results according to the use of languages? 
+        Kanon: Will the search engine pop different results according to the use of languages? <br>花音: 搜尋引擎會不會跟據語言顯示不同的結果？
       </td>
     </tr>
         <tr>
@@ -290,7 +291,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Yes. The result may vary by the cultural background of the language users. Different languages used in the search will give results about different considerations to a problem. It provides insights to think a question deeper.
+        Ryouka: Yes. The result may vary by the cultural background of the language users. Different languages used in the search will give results about different considerations to a problem. It provides insights to think a question deeper.<br>稜楓: 會。搜尋結果或者會根據語言用者的文化背景而變化。不同的語言於搜尋中，會顯示出對問題的不同考慮。這樣提供更多角度，加深思考層次。
       </td>
     </tr>
         <tr>
@@ -299,7 +300,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Oh… It seems useful to find points in debate.
+        Kanon: Oh… It seems useful to find points in debate.<br>花音: 噢… 看起來可以運用同樣的方法，準備辯論觀點。
       </td>
     </tr>
         <tr>
@@ -308,7 +309,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Yes. That is a secret for me to win debate.
+        Ryouka: Yes. That is a secret for me to win debate.<br>稜楓: 對。這是我於辯論中取勝的秘密。
       </td>
     </tr>
         <tr>
@@ -317,7 +318,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sweat.png"/>
       </td>
       <td>
-        Kanon : (I think it is just you are knowledgeable enough…) Oh… Yeah.
+        Kanon : (I think it is just you are knowledgeable enough…) Oh… Yeah.<br>花音 : （我認為這只是你坐擁不少知識） 噢… 對.
       </td>
     </tr>
         <tr>
@@ -326,7 +327,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: (Being proud)
+        Ryouka: (Being proud)<br>稜楓: （感到得意）
       </td>
     </tr>
          <tr>
@@ -335,7 +336,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: (Approaching) what you guys doing? Trying out something cool?
+        Nagiko: (Approaching) what you guys doing? Trying out something cool?<br>凪子: （走近）你們在做什麼？在做很酷的事嗎？
       </td>
     </tr>
         <tr>
@@ -344,7 +345,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Ryouka is learning a new language~
+        Kanon: Ryouka is learning a new language~<br>花音: 稜楓正在學習新語言～
       </td>
     </tr>
          <tr>
@@ -353,7 +354,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: Wow, that is cool !!!
+        Nagiko: Wow, that is cool !!!<br>凪子: 哇，這很酷！！！
       </td>
     </tr>
         <tr>
@@ -362,7 +363,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: …
+        Ryouka: …<br>稜楓: …
       </td>
     </tr>
          <tr>
@@ -371,7 +372,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: Why are you quiet?!
+        Nagiko: Why are you quiet?!<br>凪子: 為什麼突然安靜了？！
       </td>
     </tr>
         <tr>
@@ -380,7 +381,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: You may not be interested in this topic.
+        Kanon: You may not be interested in this topic.<br>花音: 你未必對這個話題感興趣。
       </td>
     </tr>
          <tr>
@@ -389,7 +390,7 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: Why~~ Please tell me~~
+        Nagiko: Why~~ Please tell me~~<br>凪子: 為什麼～～請告訴我～～
       </td>
     </tr>
         <tr>
@@ -398,36 +399,14 @@ Kanon notices Ryouka's learning in a new language.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon : (Tell her anyway)
+        Kanon : (Tell her anyway)<br>花音 : （還是告訴她了）
       </td>
     </tr>
 </table>
 <br><br>
 
-<p><div class="left-margin" id="set-B"><h2>Traditional Chinese Version</h2></div></p>
-
-Please find the Chinese version below.
-
-<p>
-            {% for post in site.posts %}
-                {%if post.title == "二年三班的日常 - (Ch.3) 稜楓學習新語言，及其用處"%}
-                <hr>
-                <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
-                </a>
-                </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
-</p>
-
-<br><br>
-
 <p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
 
 Nagiko does not like so much of the serious talks, but she will listen when friends tell her.
+
+凪子不太喜歡這類認真認題，但如果是她的朋友跟她說，她還是會聆聽。

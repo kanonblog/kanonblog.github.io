@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily life of 2-3 class - (Ch.6) Crisis to summer vacations (2/2)"
+title: "Daily life of 2-3 class - Crisis to summer vacations (2/2)"
 date: 2021-06-04 19:10:00 +0800
 background: '/img/posts/tea.jpg'
 tags: 
@@ -8,6 +8,8 @@ tags:
 - 2-3-class
 ---
 Study examniation in Ryouka's home.
+
+在稜楓家複習考試內容。
 
 <style>
     img{
@@ -23,7 +25,6 @@ Study examniation in Ryouka's home.
     <p>
     <ul>
     <li><a href="#set-A">Content</a></li>
-    <li><a href="#set-B">Tranditional Chinese Version</a></li>
     <li><a href="#set-C">Last words</a></li>
     </ul>
     </p>
@@ -37,7 +38,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: This is my room.
+        Ryouka: This is my room. <br>稜楓: 這是我房間。
       </td>
     </tr>
         <tr>
@@ -46,7 +47,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: Didn’t you skip a lot of things!? Your entrance is so giant, and there were a lot of working staff…
+        Nagiko: Didn’t you skip a lot of things!? Your entrance is so giant, and there were a lot of working staff…<br>凪子: 你是不是沒有提很多東西！？ 你家門口很大，而且這裏有很多員工…
       </td>
     </tr>
         <tr>
@@ -55,7 +56,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Never mind. You want to improve your academic result, right?
+        Ryouka: Never mind. You want to improve your academic result, right?<br>稜楓: 這不太重要。你想要讓你學業成績變好，對嗎？
       </td>
     </tr>
         <tr>
@@ -64,7 +65,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: You are right…
+        Nagiko: You are right…<br>凪子: 你對…
       </td>
     </tr>
         <tr>
@@ -73,7 +74,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue-angry.png"/>
       </td>
       <td>
-        Ryouka: So you need an extra study, right?
+        Ryouka: So you need an extra study, right?<br>稜楓: 所以你想要額外指導，對吧？<br>
       </td>
     </tr>
         <tr>
@@ -82,7 +83,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: Yes…
+        Nagiko: Yes…<br>凪子: 對…
       </td>
     </tr>
         <tr>
@@ -91,7 +92,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-sweat.png"/>
       </td>
       <td>
-        Kanon: (Seem Ryouka is avoiding to describe her house… )
+        Kanon: (Seem Ryouka is avoiding to describe her house… )<br>花音: （看來稜楓想回避關於她家的話題）
       </td>
     </tr>
     <tr>
@@ -100,7 +101,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: I will guide you study. Just do the questions as usual.
+        Ryouka: I will guide you study. Just do the questions as usual.<br>稜楓: 我會教你學習。請你像平時一樣解題吧。
       </td>
     </tr>
         <tr>
@@ -109,7 +110,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: What should I start first?
+        Nagiko: What should I start first?<br>凪子: 我從哪裏開始？
       </td>
     </tr>
         <tr>
@@ -118,7 +119,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Which subject you do the worst?
+        Ryouka: Which subject you do the worst?<br>稜楓: 哪一科是你最不擅長的？
       </td>
     </tr>
         <tr>
@@ -127,7 +128,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: Mathematics.
+        Nagiko: Mathematics.<br>凪子: 數學。
       </td>
     </tr>
         <tr>
@@ -136,7 +137,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Okay, let’s try it.
+        Ryouka: Okay, let’s try it.<br>稜楓: 好，那就嘗試先做數學題目吧。
       </td>
     </tr>
         <tr>
@@ -145,7 +146,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: (Work on the question bank provided by Ryouka)
+        Nagiko: (Work on the question bank provided by Ryouka)<br>凪子: （埋首做稜楓給她的問題集）
       </td>
     </tr>
         <tr>
@@ -154,7 +155,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: (After 30-minutes) Hmmm… I still have no clues to remaining answers~~
+        Nagiko: (After 30-minutes) Hmmm… I still have no clues to remaining answers~~<br>凪子: （30 分鐘後）唔… 我仍然對剩下的題目沒有頭緒～～
       </td>
     </tr>
         <tr>
@@ -163,7 +164,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Seem you have finished all you know.
+        Kanon: Seem you have finished all you know.<br>花音: 看來你已經做完你懂的題目。
       </td>
     </tr>
         <tr>
@@ -172,7 +173,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Nagiko’s answering strategy is perfect. She didn’t spend much time on something she didn’t know.
+        Ryouka: Nagiko’s answering strategy is perfect. She didn’t spend much time on something she didn’t know.<br>稜楓: 凪子的答題策略是完美的，她沒有在不懂的題目上花太長時間。
       </td>
     </tr>
         <tr>
@@ -181,7 +182,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: The question bank seems quite difficult to her study progress…
+        Kanon: The question bank seems quite difficult to her study progress…<br>花音: 看來這個問題集對她而言有點難…
       </td>
     </tr>
         <tr>
@@ -190,7 +191,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: Instructor Kanon and Ryouka..! Please tell me how to improve… for my vacation!!
+        Nagiko: Instructor Kanon and Ryouka..! Please tell me how to improve… for my vacation!!<br>凪子: 教師花音和稜楓..! 為了我的假期，請告訴我怎樣改善!!
       </td>
     </tr>
         <tr>
@@ -199,7 +200,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Nagiko always show reluctant to Mathematics. It is more about thoughts.
+        Kanon: Nagiko always show reluctant to Mathematics. It is more about thoughts.<br>花音: 凪子不太喜歡數學。這是想法的因素。
       </td>
     </tr>
         <tr>
@@ -208,7 +209,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: Hmmm… I feel unwilling to proceed when I encounter mathematical questions. I tried hard to memorize the mathematical patterns, so I still managed to get a pass.
+        Nagiko: Hmmm… I feel unwilling to proceed when I encounter mathematical questions. I tried hard to memorize the mathematical patterns, so I still managed to get a pass.<br>凪子: 唔… 我不太想面對數學問題。透過記憶數學的解法，我還是能夠及格的。
       </td>
     </tr>
         <tr>
@@ -217,7 +218,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: That’s the problem.
+        Ryouka: That’s the problem.<br>稜楓: 這是問題所在。
       </td>
     </tr>
         <tr>
@@ -226,7 +227,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: Huh?
+        Nagiko: Huh?<br>凪子: 嗯？
       </td>
     </tr>
         <tr>
@@ -235,7 +236,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: You are reluctant to do the questions, but you need to increase the amount of patterns to solve the questions. You need to solve questions in both quantity and quality.
+        Ryouka: You are reluctant to do the questions, but you need to increase the amount of patterns to solve the questions. You need to solve questions in both quantity and quality.<br>稜楓: 你不太想解數學題，可是你是透過學習多種數學模式解題。所以你需要注重於解題的數量和質素。
       </td>
     </tr>
         <tr>
@@ -244,7 +245,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: It helps if you can predict the exam questions in accurate. That’s why I give you the questions bank.
+        Ryouka: It helps if you can predict the exam questions in accurate. That’s why I give you the questions bank.<br>稜楓: 另外，準確預測題目能夠帶來幫助。這是為什麼我給你問題集。
       </td>
     </tr>
         <tr>
@@ -253,7 +254,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: You are so cool…! Can I get pass when I know all questions right here?
+        Nagiko: You are so cool…! Can I get pass when I know all questions right here?<br>凪子: 你太酷了…! 學懂解這裏的題目後，我是不是可以及格？
       </td>
     </tr>
         <tr>
@@ -262,7 +263,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Properly yes.
+        Ryouka: Properly yes.<br>稜楓: 很大機會是。
       </td>
     </tr>
         <tr>
@@ -271,7 +272,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-surprised.png"/>
       </td>
       <td>
-        Nagiko: Wow..! My result gets to be fine if my mathematical result is good enough this time.
+        Nagiko: Wow..! My result gets to be fine if my mathematical result is good enough this time.<br>凪子: 哇..! 我的成績可以達到要求，如果我今次的數學成績表現達標。
       </td>
     </tr>
         <tr>
@@ -280,7 +281,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: By the way, how Ryouka get the question bank?
+        Kanon: By the way, how Ryouka get the question bank?<br>花音: 順帶一提，稜楓怎麼拿到問題集的？
       </td>
     </tr>
         <tr>
@@ -289,7 +290,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: They are the questions of university entrance exam.
+        Ryouka: They are the questions of university entrance exam.<br>稜楓: 這些是大學入學試的問題。
       </td>
     </tr>
         <tr>
@@ -298,7 +299,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: What?
+        Kanon: What?<br>花音: 什麼？
       </td>
     </tr>
         <tr>
@@ -307,7 +308,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: I pick the questions in moderate level, from the top universities’ question banks.
+        Ryouka: I pick the questions in moderate level, from the top universities’ question banks.<br>稜楓: 我選取了頭等大學問題集裏，中等難度的問題。
       </td>
     </tr>
         <tr>
@@ -316,7 +317,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: Are you studying the university entrance exam by now?
+        Kanon: Are you studying the university entrance exam by now?<br>花音: 你已經在複習大學入學試嗎？
       </td>
     </tr>
         <tr>
@@ -325,7 +326,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: I always aim high. It brings me good performance in current studies.
+        Ryouka: I always aim high. It brings me good performance in current studies.<br>稜楓: 我總是有較高目標。這樣能為現在的學習進度帶來正面效果。
       </td>
     </tr>
         <tr>
@@ -334,7 +335,7 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Oh, no wonder you are doing excellent in school exams.
+        Kanon: Oh, no wonder you are doing excellent in school exams.<br>花音: 噢，怪不得你在校內試成績這麼好。
       </td>
     </tr>
         <tr>
@@ -343,33 +344,18 @@ Study examniation in Ryouka's home.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: I would not get shocked with this reveal. I need to work hard for my vacation…!
+        Nagiko: I would not get shocked with this reveal. I need to work hard for my vacation…!<br>凪子: 我不會為此而震驚。我要爭取屬於自己的假期…!
       </td>
     </tr>
 </table>
 
 Kanon drinks the tea served by Ryouka, and feel relieved. Nagiko still need to work hard for her vacation…!
 
-<br><br>
-<p><div class="left-margin" id="set-B"><h2>Traditional Chinese Version</h2></div></p>
-<p>
-            {% for post in site.posts %}
-                {%if post.title == "二年三班的日常 - (Ch.6) 暑假的危機 (2/2)"%}
-                <hr>
-                <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
-                </a>
-                </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
-</p>
+花音喝了稜楓沏的茶，感到放鬆。凪子仍要為了她的假期而奮鬥…!
+
 <br><br>
 <p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
 
 For the ranking of academic results, Ryouka stays the top, followed by Kanon staying the top 10. Nagiko is on average among the year.
+
+在學業排名上，稜楓名列榜首，花音居於頭十名內，凪子處於平均排名。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily life of 2-3 class - (Ch.5) Crisis to summer vacations (1/2)"
+title: "Daily life of 2-3 class - Crisis to summer vacations (1/2)"
 date: 2021-06-04 18:42:00 +0800
 background: '/img/posts/dock.jpg'
 tags: 
@@ -8,6 +8,8 @@ tags:
 - 2-3-class
 ---
 Summer vacation is coming. However, there are trials ahead.
+
+暑假將至。可是，在這之前有試練。
 
 <style>
     img{
@@ -23,7 +25,6 @@ Summer vacation is coming. However, there are trials ahead.
     <p>
     <ul>
     <li><a href="#set-A">Content</a></li>
-    <li><a href="#set-B">Tranditional Chinese Version</a></li>
     <li><a href="#set-C">Last words</a></li>
     </ul>
     </p>
@@ -37,7 +38,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Good morning~~
+        Kanon: Good morning~~ <br>花音: 早安～～
       </td>
     </tr>
         <tr>
@@ -46,7 +47,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-happy1.png"/>
       </td>
       <td>
-        Nagiko: Morning~~
+        Nagiko: Morning~~<br>凪子: 早安～～
       </td>
     </tr>
         <tr>
@@ -55,7 +56,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Morning.
+        Ryouka: Morning.<br>稜楓: 早安。
       </td>
     </tr>
         <tr>
@@ -64,7 +65,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: It reaches Examination period soon…! Luckily it has a week vacation right before.
+        Nagiko: It reaches Examination period soon…! Luckily it has a week vacation right before.<br>凪子: 考試期間快到了...！幸好在這之前有一星期假期。
       </td>
     </tr>
         <tr>
@@ -73,7 +74,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-happy1.png"/>
       </td>
       <td>
-        Kanon: Yes. It is nice to have time for preparation.
+        Kanon: Yes. It is nice to have time for preparation.<br>花音: 這樣就有時間預備考試了。
       </td>
     </tr>
         <tr>
@@ -82,7 +83,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: Hmmm.. It seems the examination is getting harder from this year?
+        Nagiko: Hmmm.. It seems the examination is getting harder from this year?<br>凪子: 唔... 看來從今年開始，考試會變得更難？
       </td>
     </tr>
         <tr>
@@ -91,7 +92,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Yes, our instructors want us to get prepared of university entrance exam. If some students cannot pass the examination, their vacations may get cancelled.
+        Kanon: Yes, our instructors want us to get prepared of university entrance exam. If some students cannot pass the examination, their vacations may get cancelled.<br>花音: 是啊，因為教師希望學生開始準備大學入學試。如果學生不能通過這次考試，他們的假期會被取消。
       </td>
     </tr>
         <tr>
@@ -100,7 +101,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: No problem. I will pass them.
+        Ryouka: No problem. I will pass them.<br>稜楓: 沒有問題，我能夠通過考試。
       </td>
     </tr>
         <tr>
@@ -109,7 +110,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-sad.png"/>
       </td>
       <td>
-        Nagiko: Hmmm.. A half of the year-2 students get caught for make-up classes during vacation every year, right? I am just right on the line…
+        Nagiko: Hmmm.. A half of the year-2 students get caught for make-up classes during vacation every year, right? I am just right on the line…<br>凪子: 唔... 每年都會有一半二年級學生被抓去補課，是吧？我的成績剛好在那邊沿…
       </td>
     </tr>
         <tr>
@@ -118,7 +119,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-surprised.png"/>
       </td>
       <td>
-        Kanon: Oh, I overhear that too. 
+        Kanon: Oh, I overhear that too.<br>花音: 噢，我也有聽說過。 
       </td>
     </tr>
         <tr>
@@ -127,7 +128,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Do you want to improve your result, Nagiko?
+        Ryouka: Do you want to improve your result, Nagiko?<br>稜楓: 凪子，你想不想提升你的成績？
       </td>
     </tr>
         <tr>
@@ -136,7 +137,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue-angry.png"/>
       </td>
       <td>
-        Nagiko: Sure. I want to play with you guys in summer vacations…!
+        Nagiko: Sure. I want to play with you guys in summer vacations…!<br>凪子: 當然。我想在暑假跟你們玩…!
       </td>
     </tr>
         <tr>
@@ -145,7 +146,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Follow me after school.
+        Ryouka: Follow me after school.<br>稜楓: 那你放學校跟住我吧。
       </td>
     </tr>  
         <tr>
@@ -154,7 +155,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/nagiko-dialogue.png"/>
       </td>
       <td>
-        Nagiko: I am counting on you…!
+        Nagiko: I am counting on you…!<br>凪子: 靠你了…!
       </td>
     </tr>
         <tr>
@@ -163,7 +164,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue.png"/>
       </td>
       <td>
-        Kanon: Can I come as well?
+        Kanon: Can I come as well?<br>花音: 我能不能參加？
       </td>
     </tr>
         <tr>
@@ -172,7 +173,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: Yes.
+        Ryouka: Yes.<br>稜楓: 可以。
       </td>
     </tr>
         <tr>
@@ -181,7 +182,7 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/kanon-dialogue-happy2.png"/>
       </td>
       <td>
-        Kanon: I am so excited to try the tea in your home.
+        Kanon: I am so excited to try the tea in your home.<br>花音: 我非常期待你家的茶。
       </td>
     </tr>
         <tr>
@@ -190,31 +191,14 @@ Summer vacation is coming. However, there are trials ahead.
         <img src="{{ post.image | prepend: site.baseurl }}/img/2-3class-20210510/ryouka-dialogue.png"/>
       </td>
       <td>
-        Ryouka: You can look forward to it.
+        Ryouka: You can look forward to it.<br>稜楓: 你期待吧。
       </td>
     </tr>
 </table>
 
 <br><br>
-<p><div class="left-margin" id="set-B"><h2>Traditional Chinese Version</h2></div></p>
-<p>
-            {% for post in site.posts %}
-                {%if post.title == "二年三班的日常 - (Ch.5) 暑假的危機 (1/2)"%}
-                <hr>
-                <div>
-                <a href="{{ site.baseurl }}{{ post.url }}"><h4>{{ post.title }}</h4>
-                  {% if post.subtitle %}
-                  <p style="font-size:15px">{{ post.subtitle }}</p>
-                  {% else %}
-                  <p style="font-size:15px">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
-                  {% endif %}
-                </a>
-                </div>
-                <hr>
-                {%endif%}
-            {% endfor %}    
-</p>
-<br><br>
 <p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
 
 I crop it off two parts here, because the conversation is a bit long. Please read the next chapter as well~~
+
+由於對話有點太長，我將這故事分成兩部份了。請你也閱讀下一部份～～
