@@ -9,6 +9,8 @@ tags:
 ---
 Include Japanese style scenery, pool and drawings.
 
+(The tweets **need some time to load**)
+
 <div class="table-content">
     <p>Content</p>
     <p>

@@ -9,6 +9,8 @@ tags:
 ---
 Share daily-life related tweets and thoughts.
 
+(The tweets **need some time to load**)
+
 <div class="table-content">
     <p>Content</p>
     <p>

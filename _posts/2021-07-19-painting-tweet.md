@@ -9,6 +9,8 @@ tags:
 ---
 It is quite satisfying to learn or watch the painting process from tweets!
 
+(The tweets **need some time to load**)
+
 <div class="table-content">
     <p>Content</p>
     <p>
