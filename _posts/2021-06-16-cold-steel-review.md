@@ -75,7 +75,32 @@ I don't feel every good about bond events... I feel like each character is not d
 
 I do have fun in Trails of Cold Steel series. It has been a very long series, and it accompanies myself for several years. I hope the next kiseki can make better description in main story, while the character interaction can remain good.
 
+<br><br>
+<p><div class="left-margin" id="set-D"><h2>Related Products</h2></div></p>
+<div style="text-align: center;">As an Amazon Associate I earn from qualifying purchases.</div>
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/B08226KDRD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08226KDRD&linkCode=as2&tag=kanonblog-20&linkId=1b3a85bdab0146b2b0de7bd02c5a1e0b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B08226KDRD&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
 
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B08226KDRD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08226KDRD&linkCode=as2&tag=kanonblog-20&linkId=f705483c4b6720a6f259331ab193fa8a">The Legend of Heroes: Trails of Cold Steel III - Extracurricular Edition - Nintendo Switch</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B077CZRQG9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077CZRQG9&linkCode=as2&tag=kanonblog-20&linkId=bb58dae10e2b6b7c1711ae45c300e6ed"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B077CZRQG9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B077CZRQG9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077CZRQG9&linkCode=as2&tag=kanonblog-20&linkId=42ef5cf07c8ad29f005c15a726824f0b">The Legend of Heroes: Sen No Kiseki III Original Soundtrack -Complete Edition-</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B086VBLTKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B086VBLTKW&linkCode=as2&tag=kanonblog-20&linkId=3ac4bdf96dde9feaf94cfa0b4d9fb83e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B086VBLTKW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B086VBLTKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B086VBLTKW&linkCode=as2&tag=kanonblog-20&linkId=7b8bb7582cd0c31ad394e75c329af2f4">The Legend of Heroes: Trails of Cold Steel IV - Frontline Edition - Nintendo Switch</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B07JVCK516/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JVCK516&linkCode=as2&tag=kanonblog-20&linkId=edccd0c522bb13a5637748e95718fd1d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07JVCK516&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B07JVCK516/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JVCK516&linkCode=as2&tag=kanonblog-20&linkId=e9db8442040f3b667f5f350b288b2b74">The Legend of Heroes: Trails of Cold Steel II - Relentless Edition - PlayStation 4</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B07KK6D28X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07KK6D28X&linkCode=as2&tag=kanonblog-20&linkId=19b28c6bab636e38d278f6eb75f6c81b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07KK6D28X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B07KK6D28X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07KK6D28X&linkCode=as2&tag=kanonblog-20&linkId=23e4ba497c160f6f160fec67ca807722">The Legend of Heroes: Trails of Cold Steel (PS4)</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00H4YWNHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H4YWNHS&linkCode=as2&tag=kanonblog-20&linkId=759f60afadbeefeb8e5de29ccdd55239"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00H4YWNHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B00H4YWNHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H4YWNHS&linkCode=as2&tag=kanonblog-20&linkId=d39f76e25c52b9346d410c657c6c4024">The Legend of Heroes: Sen No Kiseki (Original Soundtrack)</a></div>
 
 

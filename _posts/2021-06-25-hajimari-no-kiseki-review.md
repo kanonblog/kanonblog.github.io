@@ -118,7 +118,13 @@ I am not certain about the English name of the new characters, so please allow m
 
 I didn't predict this word count, but it gets hard to stop writing. Hope you enjoy your game too!
 
+<br><br>
+<p><div class="left-margin" id="set-D"><h2>Related Products</h2></div></p>
+<div style="text-align: center;">As an Amazon Associate I earn from qualifying purchases.</div>
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/B09B1NYMN6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09B1NYMN6&linkCode=as2&tag=kanonblog-20&linkId=8eb0079352f0accdde948c55e02da0e4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B09B1NYMN6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B09B1NYMN6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09B1NYMN6&linkCode=as2&tag=kanonblog-20&linkId=a4032ec5704f17002185cc26cee2c08c">The Legend of Heroes: Trails into Reverie - Nintendo Switch</a></div>
 
 
 

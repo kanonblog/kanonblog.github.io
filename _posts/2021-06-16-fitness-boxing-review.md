@@ -78,3 +78,19 @@ This game helps to build up the habit of doing exercise, and the difficulty woul
 <p><div class="left-margin" id="set-C"><h2>Last words</h2></div></p>
 
 This game is quite worthy to play. My game play hours have reached above 100 hours and I still feel good on this game.
+
+<br><br>
+<p><div class="left-margin" id="set-D"><h2>Related Products</h2></div></p>
+<div style="text-align: center;">As an Amazon Associate I earn from qualifying purchases.</div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B08JDTJ9V5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08JDTJ9V5&linkCode=as2&tag=kanonblog-20&linkId=3f18a11dc69bd6f69f8fd012fe452dfb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B08JDTJ9V5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B08JDTJ9V5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08JDTJ9V5&linkCode=as2&tag=kanonblog-20&linkId=0a0c62497b5f3d58af7642e9ef6003ae">Fitness Boxing 2: Rhythm &amp; Exercise - Nintendo Switch</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B07J9K4ZRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07J9K4ZRL&linkCode=as2&tag=kanonblog-20&linkId=e824ec4dcc116e235b02939de526d7c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07J9K4ZRL&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B07J9K4ZRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07J9K4ZRL&linkCode=as2&tag=kanonblog-20&linkId=6bbd9e5281f5ae557f7ba76f8d980dfb">Fitness Boxing - Nintendo Switch</a></div>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B097J58QRT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B097J58QRT&linkCode=as2&tag=kanonblog-20&linkId=31560a7230af1497e1dde225a1c506cc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B097J58QRT&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kanonblog-20" ></a>
+
+<div style="text-align: center;"><a target="_blank" href="https://www.amazon.com/gp/product/B097J58QRT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B097J58QRT&linkCode=as2&tag=kanonblog-20&linkId=1f569ec14876803dd160e36089fcb030">Fitness Boxing Game ( Switch) Fitness Boxing Hand Grips for Switch Joy-Con Gaming Finger Clasp Bundle</a></div>
