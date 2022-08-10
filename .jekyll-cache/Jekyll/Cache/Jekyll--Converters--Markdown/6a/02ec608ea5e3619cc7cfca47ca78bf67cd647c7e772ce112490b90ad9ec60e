@@ -1,0 +1,69 @@
+I"�	<style>
+    img{
+        width: 100%;
+        height: 100%;
+        display:block;
+        vertical-align: middle;
+    }
+</style>
+
+<div class="table-content">
+    <p>Content</p>
+    <p>
+    <ul>
+    <li><a href="#set-A">カラー漫画　Color Comics</a></li>
+    <li><a href="#set-B">オリジナル漫画　Original Comics</a></li>
+    <li><a href="#set-C">背景含む　Background Included</a></li>
+    </ul>
+    </p>
+</div>
+
+<p><div class="left-margin" id="set-A"><h2>カラー漫画　Color Comics</h2></div></p>
+
+<p><img src="../../../img/color-comics/1-koyan-dark-jp.png" alt="1-koyan-dark-jp" /></p>
+
+<p><img src="../../../img/comics/1-shizuna-rean-jp.png" alt="1-shizuna-rean-jp" /></p>
+
+<p><img src="../../../img/comics/2-mashu-en.png" alt="2-mashu-en" /></p>
+
+<p><a href="[http://203.0.113.0:4000/post-name">All manga works</a></p>
+
+<p><br /><br /></p>
+<p><div class="left-margin" id="set-B"><h2>オリジナルと漫画　Original and Comics</h2></div></p>
+
+<p><img src="../../../img/original-comics/18-1.png" alt="18-1-JP" /></p>
+
+<p><img src="../../../img/original-comics/18-2.png" alt="18-2-JP" /></p>
+
+<p><img src="../../../img/original-comics/18-3.png" alt="18-3-JP" /></p>
+
+<p><img src="../../../img/original-comics/18-4.png" alt="18-4-JP" /></p>
+
+<p><img src="../../../img/char.png" alt="Chinese girls" /></p>
+
+<p><br /><br /></p>
+<p><div class="left-margin" id="set-C"><h2>背景含む　Background Included</h2></div></p>
+
+<p><img src="../../../img/background-included/arbg.png" alt="Background" /></p>
+
+<p>これはフリー商用可能素材からの模写になります。This is copied from free material allowed for commercial use.</p>
+
+<p><img src="../../../img/background-included/castoria.png" alt="Castoria" /></p>
+
+<p><img src="../../../img/background-included/koyanskaya-chinese-dress.png" alt="Koyanskaya" /></p>
+
+<p><img src="../../../img/background-included/sakura.png" alt="Sakura" /></p>
+
+<p><img src="../../../img/background-included/bb-1-ty.png" alt="BB" /></p>
+
+<p><img src="../../../img/background-included/BB-3-s.png" alt="BB" /></p>
+
+<p><img src="../../../img/background-included/alisa-rain-small.png" alt="Alisa" /></p>
+
+<p><img src="../../../img/background-included/morgan-garden-small-3.png" alt="Morgan" /></p>
+
+<p><img src="../../../img/background-included/morgan-throne-small.png" alt="Morgan" /></p>
+
+<p><img src="../../../img/background-included/tamamo-resturant-small-2.png" alt="Tamamo" /></p>
+
+:ET

@@ -1,0 +1,25 @@
+title:              Kanon's Daily Life Blog
+email:              kanonillust@gmail.com
+description:        Drawing Stuff
+author:             Kanon
+baseurl:            ""
+url:                ""
+
+# Social Profiles
+twitter_username:   Kanonlifeillust
+github_username: 
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:      # out your google-analytics code ## UA-192821471-2
+
+# Build settings
+markdown:           kramdown
+paginate:           15
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
